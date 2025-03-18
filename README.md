@@ -1,49 +1,56 @@
-# 👋 Hi, I'm Alekhya Ramisetti!
+# Hi, I'm Alekhya Ramisetti 👋
 
 ## 🚀 About Me
-I'm a **Master's student in Computer Science** at **Missouri S&T**, passionate about **Data Engineering** and **Big Data Technologies**. I love working with **ETL pipelines, Cloud Infrastructure, and Scalable Data Processing Solutions**.
-
-🔹 **Experienced in SQL, MySQL, PostgreSQL, Python, and Cloud Services (AWS, Azure)**  
-🔹 **Strong background in Database Optimization, Data Pipelines, and Real-time Data Processing**  
-🔹 **Passionate about building scalable, efficient, and real-world data-driven applications**  
-
-📍 **Currently:** Pursuing my **Master’s in Computer Science** (Expected Dec 2025)  
-💼 **Previously:** Systems Engineer at **Infosys**, optimizing MySQL databases and developing backup strategies.  
+🔹 **Master's student in Computer Science** at **Missouri S&T**, specializing in **Data Engineering & Cloud Infrastructure**  
+🔹 **Former Systems Engineer at Infosys**, skilled in **SQL, ETL Pipelines, and Big Data Processing**  
+🔹 **Passionate about designing scalable, high-performance data solutions**  
 
 ---
 
-## 🔧 Technical Skills
+## 🛠️ Technical Skills
 
-💾 **Databases & SQL**: SQL, MySQL, PostgreSQL, NoSQL (MongoDB)  
-⚙️ **ETL & Big Data**: Apache Airflow, Apache Spark, Hadoop, Kafka, Snowflake, BigQuery  
-☁️ **Cloud Technologies**: AWS (S3, Redshift, Glue, Lambda), Azure  
-🐍 **Programming & Data Structures**: Python, Java, C, R, JavaScript, Algorithms & Data Structures  
-📊 **Data Processing & Analytics**: Pandas, NumPy, PySpark, Dask  
-🔹 **DevOps & Version Control**: Git, Linux, Docker, Kubernetes  
-📈 **Data Visualization**: Tableau  
-
----
-
-## 🏆 Featured Projects
-
-### 📌 **ETL Pipeline for Real-Time Data Processing**
-**Tech Stack:** Python, Apache Airflow, AWS Glue, S3, Redshift, Snowflake  
-✅ Built an end-to-end ETL pipeline processing financial transactions, improving query performance by 40%.
-
-### 📌 **Real-Time Log Processing System**
-**Tech Stack:** Python, Apache Kafka, Apache Spark, AWS S3, PostgreSQL  
-✅ Developed a real-time log processing pipeline reducing anomaly detection latency by 45% using Kafka & Spark.
-
-### 📌 **E-commerce Data Warehouse**
-**Tech Stack:** SQL, Snowflake, Tableau  
-✅ Implemented a Snowflake-based warehouse for analytics, processing **1M+ records** with interactive Tableau dashboards.
+- **Databases & SQL:** SQL, MySQL, PostgreSQL, NoSQL (MongoDB)  
+- **ETL & Big Data:** Apache Airflow, Apache Spark, Hadoop, Kafka, Snowflake, BigQuery  
+- **Cloud Technologies:** AWS (S3, Redshift, Glue, Lambda), Azure  
+- **Programming & Data Structures:** Python, Java, C, R, JavaScript, Algorithms & Data Structures  
+- **Data Processing & Analytics:** Pandas, NumPy, PySpark, Dask  
+- **DevOps & Version Control:** Git, Linux, Docker, Kubernetes  
+- **Data Visualization:** Tableau, Power BI  
 
 ---
 
-## 🎓 Certifications & Learning
-📍 **AWS Certified Data Analytics – Specialty** *(In Progress)*  
-📍 **Google Cloud Data Engineer** *(In Progress)*  
-📍 **Internship: Web Development, Internshala (2020)**  
+## 🔭 Currently Working On
+- **Building real-time ETL pipelines** for high-volume data processing  
+- **Optimizing SQL queries & data warehousing strategies** for performance  
+- **Exploring Apache Spark & Airflow** for scalable data orchestration  
+- **Developing cloud-native Data Engineering solutions (AWS & Azure)**  
+
+---
+
+## 🌱 Currently Learning
+- **Advanced SQL Query Optimization**  
+- **Real-time Data Streaming with Kafka & Spark**  
+- **Serverless ETL using AWS Glue & Lambda**  
+
+---
+
+## 🤝 Looking to Collaborate On
+- **Open-source Data Engineering projects**  
+- **Cloud-based ETL pipeline development**  
+- **Optimizing large-scale data workflows**  
+
+---
+
+## 💬 Ask Me About
+- **ETL Pipelines & Data Engineering Best Practices**  
+- **Cloud Data Solutions (AWS, Azure, Snowflake)**  
+- **SQL Query Optimization & Performance Tuning**  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alekhyaramisetti01&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhyaramisetti01&layout=compact&theme=radical)  
 
 ---
 
@@ -51,6 +58,11 @@ I'm a **Master's student in Computer Science** at **Missouri S&T**, passionate a
 📌 **GitHub:** [github.com/alekhyaramisetti01](https://github.com/alekhyaramisetti01)  
 📌 **LinkedIn:** [linkedin.com/in/alekhyaramisetti](https://www.linkedin.com/in/alekhyaramisetti/)  
 📧 **Email:** ar89z@umsystem.edu  
+
+---
+
+## ⚡ Fun Fact
+🚀 I enjoy optimizing **big data pipelines** and experimenting with **scalable cloud architectures**!  
 
 ---
 
