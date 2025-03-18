@@ -1,57 +1,58 @@
-# Hi, I'm Alekhya Ramisetti 👋  
+# 👋 Hi, I'm Alekhya Ramisetti!
 
-## 🚀 About Me  
-🔹 Master's student in Computer Science at Missouri S&T  
-🔹 Former Systems Engineer at Infosys | AI & Networking Enthusiast  
-🔹 Passionate about **Artificial Intelligence, Deep Learning, and Networking**  
+## 🚀 About Me
+I'm a **Master's student in Computer Science** at **Missouri S&T**, passionate about **Data Engineering** and **Big Data Technologies**. I love working with **ETL pipelines, Cloud Infrastructure, and Scalable Data Processing Solutions**.
 
-## 🛠️ Technical Skills  
-- **Programming Languages:** Python, Java, C, R, SQL  
-- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn  
-- **Deep Learning:** CNNs, U-Net, GANs, Transformers  
-- **Networking:** BGP, OSPF, MPLS, ISIS, Switching & Routing Concepts  
-- **Databases:** MySQL, AWS RDS  
-- **Cloud & Tools:** AWS, Azure, Git, GitHub, MATLAB  
+🔹 **Experienced in SQL, MySQL, PostgreSQL, Python, and Cloud Services (AWS, Azure)**  
+🔹 **Strong background in Database Optimization, Data Pipelines, and Real-time Data Processing**  
+🔹 **Passionate about building scalable, efficient, and real-world data-driven applications**  
 
-## 🔭 I’m currently working on  
-- **Neural Network Architectures** – Exploring **GANs, U-Net, and Transformer-based models**  
-- **Bias & Fairness in AI** – Researching **ways to mitigate bias in AI models**  
-- **Optimizing AI Algorithms** – Enhancing **deep learning model efficiency**  
-- **Networking Optimization** – Exploring **advanced routing protocols and secure networking strategies**  
-
-## 🌱 I’m currently learning  
-- **Explainable AI (XAI)** for model interpretability  
-- **Self-Supervised Learning** for various AI applications  
-- **Scalable AI deployment** with cloud integration  
-- **Tunneling Protocols & Network Security**  
-
-## 👯 I’m looking to collaborate on  
-- **Open-source AI and deep learning projects**  
-- **Networking security & optimization projects**  
-
-## 🤔 I’m looking for help with  
-- Optimizing **GAN-based models**  
-- **Interpretable AI techniques**  
-- **Advanced routing protocol optimizations**  
-
-## 💬 Ask me about  
-- AI, Machine Learning, and Deep Learning  
-- **Neural Network Optimization & Fairness in AI**  
-- **Networking Protocols & Secure Communication**  
-- **Deploying AI solutions at scale**  
-
-## 📫 How to reach me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alekhyaramisetti/)  
-
-
-## 😄 Pronouns  
-She/Her  
-
-## ⚡ Fun fact  
-I enjoy experimenting with **AI models** and **networking protocols** to explore how both fields can revolutionize technology!  
+📍 **Currently:** Pursuing my **Master’s in Computer Science** (Expected Dec 2025)  
+💼 **Previously:** Systems Engineer at **Infosys**, optimizing MySQL databases and developing backup strategies.  
 
 ---
 
-### **📊 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alekhyaramisetti01&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhyaramisetti01&layout=compact&theme=github_dark)  
+## 🔧 Technical Skills
+
+💾 **Databases & SQL**: SQL, MySQL, PostgreSQL, NoSQL (MongoDB)  
+⚙️ **ETL & Big Data**: Apache Airflow, Apache Spark, Hadoop, Kafka, Snowflake, BigQuery  
+☁️ **Cloud Technologies**: AWS (S3, Redshift, Glue, Lambda), Azure  
+🐍 **Programming & Data Structures**: Python, Java, C, R, JavaScript, Algorithms & Data Structures  
+📊 **Data Processing & Analytics**: Pandas, NumPy, PySpark, Dask  
+🔹 **DevOps & Version Control**: Git, Linux, Docker, Kubernetes  
+📈 **Data Visualization**: Tableau  
+
+---
+
+## 🏆 Featured Projects
+
+### 📌 **ETL Pipeline for Real-Time Data Processing**
+**Tech Stack:** Python, Apache Airflow, AWS Glue, S3, Redshift, Snowflake  
+✅ Built an end-to-end ETL pipeline processing financial transactions, improving query performance by 40%.
+
+### 📌 **Real-Time Log Processing System**
+**Tech Stack:** Python, Apache Kafka, Apache Spark, AWS S3, PostgreSQL  
+✅ Developed a real-time log processing pipeline reducing anomaly detection latency by 45% using Kafka & Spark.
+
+### 📌 **E-commerce Data Warehouse**
+**Tech Stack:** SQL, Snowflake, Tableau  
+✅ Implemented a Snowflake-based warehouse for analytics, processing **1M+ records** with interactive Tableau dashboards.
+
+---
+
+## 🎓 Certifications & Learning
+📍 **AWS Certified Data Analytics – Specialty** *(In Progress)*  
+📍 **Google Cloud Data Engineer** *(In Progress)*  
+📍 **Internship: Web Development, Internshala (2020)**  
+
+---
+
+## 📫 Let's Connect!
+📌 **GitHub:** [github.com/alekhyaramisetti01](https://github.com/alekhyaramisetti01)  
+📌 **LinkedIn:** [linkedin.com/in/alekhyaramisetti](https://www.linkedin.com/in/alekhyaramisetti/)  
+📧 **Email:** ar89z@umsystem.edu  
+
+---
+
+🌟 **Looking for Data Engineering Internships!** Let's build something amazing together! 🚀
+
