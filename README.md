@@ -48,10 +48,6 @@ I'm a **Master's student in Computer Science** at **Missouri S&T**, passionate a
 
 ---
 
-### **📊 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alekhyaramisetti01&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhyaramisetti01&layout=compact&theme=github_dark)  
-
 ## 📫 Let's Connect!
 📌 **GitHub:** [github.com/alekhyaramisetti01](https://github.com/alekhyaramisetti01)  
 📌 **LinkedIn:** [linkedin.com/in/alekhyaramisetti](https://www.linkedin.com/in/alekhyaramisetti/)  
@@ -61,3 +57,7 @@ I'm a **Master's student in Computer Science** at **Missouri S&T**, passionate a
 
 🌟 **Looking for Data Engineering Internships!** Let's build something amazing together! 🚀
 
+
+### **📊 GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alekhyaramisetti01&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhyaramisetti01&layout=compact&theme=github_dark)  
