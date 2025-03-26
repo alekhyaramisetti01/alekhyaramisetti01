@@ -13,6 +13,8 @@ I’m a results-driven **Master’s student in Computer Science** at **Missouri 
 
 🎯 **Goal:** To build intelligent, AI-powered systems that improve risk assessment, decision-making, and operational efficiency in the finance sector. I'm especially interested in using machine learning to solve real-world problems in fraud detection, credit risk, and customer analytics.
 
+📌 Portfolio: https://alekhya-ramisetti.super.site/
+
 ---
 
 ## 🔧 Technical Skills
@@ -55,7 +57,6 @@ I’m a results-driven **Master’s student in Computer Science** at **Missouri 
 🔗 [**GitHub**](https://github.com/alekhyaramisetti01)  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/alekhyaramisetti/)  
 📧 ar89z@umsystem.edu  
-
 ---
 
 🌟 **Actively seeking Data Engineering, Data Analyst, or Data Science internships** — especially in Finance & AI-driven analytics. Let’s build something impactful together! 🚀  
