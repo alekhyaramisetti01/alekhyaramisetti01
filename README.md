@@ -33,11 +33,11 @@ I’m a results-driven **Master’s student in Computer Science** at **Missouri 
 **Tech Stack**: Python (Pandas), PostgreSQL, Tableau Public, SQL  
 ✅ Built a full-stack analytics solution by cleaning and processing real-world e-commerce data, generating SQL schemas, and visualizing KPIs using Tableau. Dashboard insights include revenue, product sales, cancellations, and stock-demand balance.
 
-### 📌 [ETL Data Pipeline: CSV to SQL](https://github.com/alekhyaramisetti01/ETL_Pipeline_CSV_to_SQL)  
+### 📌 [ETL Data Pipeline: CSV to SQL](https://github.com/alekhyaramisetti01/etl-csv-to-sql)  
 **Tech Stack**: Python, Pandas, SQLAlchemy, PostgreSQL  
 ✅ Designed and implemented a modular ETL pipeline that extracts data from CSV, transforms it using Pandas, and loads it into a PostgreSQL database. Also includes SQL queries for data analysis.
 
-### 📌 [Bank Marketing Campaign Analytics](https://github.com/alekhyaramisetti01/Bank_Marketing_Campaign_Analytics)  
+### 📌 [Bank Marketing Campaign Analytics](https://github.com/alekhyaramisetti01/financial-metrics-analysis)  
 **Tech Stack**: SQL, Python, Tableau  
 ✅ Built an end-to-end analytics solution to evaluate bank marketing performance using 41K+ real-world records. Project includes schema design, customer data cleaning, KPI extraction with SQL, and Tableau dashboard for segmentation insights.
 
