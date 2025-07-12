@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 I’m a results-driven **Master’s student in Computer Science** at **Missouri S&T**, with a strong foundation in **Data Engineering**, **Data Analysis**, and **Statistical Modeling**. My background combines academic training with industry experience as a Systems Engineer, and I’m passionate about building scalable data solutions and applying machine learning to financial and business challenges.
 
-🔹 Skilled in SQL, Python, PostgreSQL, MySQL, and Cloud Technologies (AWS, Azure)  
+🔹 Skilled in SQL, Python, PostgreSQL, MySQL. 
 🔹 Experienced in ETL pipelines, database optimization, and real-time data processing  
 🔹 Focused on AI/ML for Finance and Risk Analytics: fraud detection, credit scoring, customer segmentation  
 
@@ -47,10 +47,8 @@ I’m a results-driven **Master’s student in Computer Science** at **Missouri 
 
 ## 🎓 Certifications & Learning
 
-📍 **AWS Certified Data Analytics – Specialty** *(In Progress)*  
-📍 **Google Cloud Professional Data Engineer** *(In Progress)*  
-📍 **Internshala Web Development Internship** *(2020)*  
-
+📍 
+📍 
 ---
 
 ## 📫 Let's Connect!  
