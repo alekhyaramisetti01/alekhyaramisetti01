@@ -1,66 +1,108 @@
-# 👋 Hi, I'm Alekhya Ramisetti!
+# 👋 Hi, I'm Alekhya Ramisetti
 
-## 🚀 About Me  
-I’m a results-driven **Master’s student in Computer Science** at **Missouri S&T**, with a strong foundation in **Data Engineering**, **Data Analysis**, and **Statistical Modeling**. My background combines academic training with industry experience as a Systems Engineer, and I’m passionate about building scalable data solutions and applying machine learning to financial and business challenges.
+🎯 **Aspiring Data Analyst** | M.S. Computer Science @ Missouri S&T (Dec 2025)  
+💡 Passionate about turning raw data into valuable business insights using SQL, Python, Power BI & Excel
 
-🔹 Skilled in SQL, Python, PostgreSQL, MySQL. 
-🔹 Experienced in ETL pipelines, database optimization, and real-time data processing  
-🔹 Focused on AI/ML for Finance and Risk Analytics: fraud detection, credit scoring, customer segmentation  
+---
 
-📍 **Currently:** Pursuing M.S. in Computer Science (Expected Dec 2025)  
-💼 **Previously:** Systems Engineer at Infosys – optimized MySQL databases, supported integration efforts  
-😄 **Pronouns:** She/Her  
+## 📌 Summary
 
-🎯 **Goal:** To build intelligent, AI-powered systems that improve risk assessment, decision-making, and operational efficiency in the finance sector. I'm especially interested in using machine learning to solve real-world problems in fraud detection, credit risk, and customer analytics.
+I'm a data-driven problem solver with hands-on experience in data analysis, visualization, and dashboard development. With a strong foundation in SQL, Python, Power BI, and Statistics, I specialize in building efficient workflows that transform messy datasets into actionable insights — particularly for business and marketing use cases.
 
-📌 Portfolio: https://alekhya-ramisetti.super.site/
+Currently seeking **full-time Data Analyst opportunities** starting **December 2025**.
 
 ---
 
 ## 🔧 Technical Skills
 
-💾 **Databases & SQL**: SQL, MySQL, PostgreSQL, NoSQL (MongoDB)  
-⚙️ **ETL & Big Data**: Apache Airflow, Spark, Kafka, Hadoop, BigQuery, Snowflake  
-☁️ **Cloud Technologies**: AWS (S3, Redshift, Glue, Lambda), Azure  
-🐍 **Programming & Scripting**: Python, Java, C, R  
-📊 **Data Processing & Analysis**: Pandas, NumPy, PySpark  
-📈 **Visualization & BI**: Tableau, Matplotlib  
-🔹 **Version Control & DevOps**: Git, Linux, Docker  
+- **Data Analysis & Visualization:** Power BI, Excel, Matplotlib, Tableau, IBM Cognos  
+- **Programming & Scripting:** SQL, Python (Pandas, NumPy)  
+- **Statistical Thinking:** Exploratory Data Analysis, Hypothesis Testing  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **ETL & Data Pipelines:** SQLAlchemy, psycopg2, CSV-to-SQL workflows  
+- **APIs & Web Scraping:** JSON API, BeautifulSoup  
 
 ---
 
-## 🏆 Featured Projects
+## 📊 Highlight Projects
 
-### 📌 [E-commerce Analytics Dashboard](https://github.com/alekhyaramisetti01/Ecommerce_Analytics_Dashboard)  
-**Tech Stack**: Python (Pandas), PostgreSQL, Tableau Public, SQL  
-✅ Built a full-stack analytics solution by cleaning and processing real-world e-commerce data, generating SQL schemas, and visualizing KPIs using Tableau. Dashboard insights include revenue, product sales, cancellations, and stock-demand balance.
+### 📊 Stack Overflow Developer Survey 2023 (Capstone Project)  
+**Capstone for:** IBM Data Analyst Professional Certificate  
+**Tools:** Python, SQL (SQLite), Pandas, NumPy, Seaborn, Matplotlib, IBM Cognos Analytics, PowerPoint  
+✔️ Explored global developer trends using the 2023 Stack Overflow survey dataset  
+✔️ Analyzed technology preferences, job satisfaction, compensation, and demographics  
+✔️ Created interactive dashboards with IBM Cognos Analytics to communicate insights  
+**Key Insights:**  
+- Python, JavaScript, and HTML/CSS lead developer preferences  
+- MySQL and PostgreSQL dominate both current use and future demand  
+- Full-stack developers are the most represented group  
+- Culture and learning opportunities drive job satisfaction more than salary  
+📄 Delivered a full executive summary and presentation in `DataAnalystPresentation.pdf`
 
-### 📌 [ETL Data Pipeline: CSV to SQL](https://github.com/alekhyaramisetti01/etl-csv-to-sql)  
-**Tech Stack**: Python, Pandas, SQLAlchemy, PostgreSQL  
-✅ Designed and implemented a modular ETL pipeline that extracts data from CSV, transforms it using Pandas, and loads it into a PostgreSQL database. Also includes SQL queries for data analysis.
 
-### 📌 [Bank Marketing Campaign Analytics](https://github.com/alekhyaramisetti01/financial-metrics-analysis)  
-**Tech Stack**: SQL, Python, Tableau  
-✅ Built an end-to-end analytics solution to evaluate bank marketing performance using 41K+ real-world records. Project includes schema design, customer data cleaning, KPI extraction with SQL, and Tableau dashboard for segmentation insights.
+### 🏦 Bank Marketing Campaign Analytics  
+**Tools:** PostgreSQL, Python, Pandas, NumPy, SQLAlchemy, psycopg2, Tableau  
+✔️ Analyzed 41K+ records to evaluate campaign success.  
+✔️ Built KPIs and customer segmentation dashboards for marketing insights.
+
+### 🛒 E-commerce Analytics Dashboard  
+**Tools:** Python, Pandas, SQL, PostgreSQL, Tableau  
+✔️ Cleaned and transformed e-commerce data for PostgreSQL storage.  
+✔️ Built dashboards highlighting revenue, cancellations, and inventory demand.
+
+### ⚙️ ETL Pipeline: CSV to SQL  
+**Tools:** Python, Pandas, SQLAlchemy, PostgreSQL  
+✔️ Developed a modular ETL pipeline to ingest CSVs and enable analysis via SQL.  
+✔️ Designed clean schemas for efficient querying.
+
 
 ---
 
-## 🎓 Certifications & Learning
+## 💼 Work Experience
 
-📍 
-📍 
+**Student Assistant – IT Software Management**  
+*Missouri S&T, USA | Jun 2024 – Present*  
+- Manage software licenses, provisioning, and documentation  
+- Maintain data logs to support cross-functional IT teams  
+- Improve software approval turnaround with structured workflows  
+
+**Systems Engineer – Infosys Pvt Ltd**  
+*Hyderabad, India | Aug 2022 – Dec 2023*  
+- Monitored and optimized MySQL databases (35% faster queries)  
+- Automated backups and enhanced secure data transfer protocols  
+- Ensured 99.9% uptime for critical systems
+
 ---
 
-## 📫 Let's Connect!  
-🔗 [**GitHub**](https://github.com/alekhyaramisetti01)  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/alekhyaramisetti/)  
-📧 ar89z@umsystem.edu  
+## 🎓 Education
+
+**M.S. Computer Science** – Missouri University of Science and Technology  
+*Rolla, Missouri | GPA: 3.8/4 | Expected Dec 2025*
+
+**B.Tech Computer Science** – Kakatiya University  
+*Warangal, India | GPA: 9.13/10 | June 2022*
+
 ---
 
-🌟 **Actively seeking Data Engineering, Data Analyst, or Data Science internships** — especially in Finance & AI-driven analytics. Let’s build something impactful together! 🚀  
+## 📚 Certifications
+
+- 🎓 *IBM Data Analyst Professional Certificate*
+- 🎓 *Power BI Data Analyst Associate (PL-300)* – Microsoft *(In Progress)*  
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alekhyaramisetti01&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhyaramisetti01&layout=compact&theme=github_dark)
+## 🌐 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alekhyaramisetti/)  
+- 🔗 [GitHub](https://github.com/alekhyaramisetti01)  
+- 🔗 [Portfolio Website](https://alekhya-ramisetti.super.site/)  
+- 📧 ar89z@umsystem.edu
+
+💼 Actively seeking **Data Analyst / BI Analyst** roles — particularly in **finance, tech, and insights-driven organizations**.
+
+---
+
+## 📈 GitHub Stats
+
+![Alekhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alekhyaramisetti01&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhyaramisetti01&layout=compact)
