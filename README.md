@@ -72,7 +72,7 @@ Currently seeking **full-time Data Analyst opportunities** starting **December 2
 - 🔗 [Portfolio Website](https://alekhya-ramisetti.super.site/)  
 - 📧 ar89z@umsystem.edu
 
-💼 Actively seeking **Data Analyst / BI Analyst** roles — particularly in **finance, tech, and insights-driven organizations**.
+💼 Actively seeking **Data Analyst / BI Analyst** roles.
 
 ---
 
