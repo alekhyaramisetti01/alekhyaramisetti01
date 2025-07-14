@@ -24,6 +24,13 @@ Currently seeking **full-time Data Analyst opportunities** starting **December 2
 
 ---
 
+## 📚 Certifications
+
+- 🎓 *IBM Data Analyst Professional Certificate*
+- 🎓 *Power BI Data Analyst Associate (PL-300)* – Microsoft *(In Progress)*
+
+---
+
 ## 📊 Highlight Projects
 
 ### 📊 Stack Overflow Developer Survey 2023 (Capstone Project)  
@@ -54,40 +61,7 @@ Currently seeking **full-time Data Analyst opportunities** starting **December 2
 **Tools:** Python, Pandas, SQLAlchemy, PostgreSQL  
 ✔️ Developed a modular ETL pipeline to ingest CSVs and enable analysis via SQL.  
 ✔️ Designed clean schemas for efficient querying.
-
-
----
-
-## 💼 Work Experience
-
-**Student Assistant – IT Software Management**  
-*Missouri S&T, USA | Jun 2024 – Present*  
-- Manage software licenses, provisioning, and documentation  
-- Maintain data logs to support cross-functional IT teams  
-- Improve software approval turnaround with structured workflows  
-
-**Systems Engineer – Infosys Pvt Ltd**  
-*Hyderabad, India | Aug 2022 – Dec 2023*  
-- Monitored and optimized MySQL databases (35% faster queries)  
-- Automated backups and enhanced secure data transfer protocols  
-- Ensured 99.9% uptime for critical systems
-
----
-
-## 🎓 Education
-
-**M.S. Computer Science** – Missouri University of Science and Technology  
-*Rolla, Missouri | GPA: 3.8/4 | Expected Dec 2025*
-
-**B.Tech Computer Science** – Kakatiya University  
-*Warangal, India | GPA: 9.13/10 | June 2022*
-
----
-
-## 📚 Certifications
-
-- 🎓 *IBM Data Analyst Professional Certificate*
-- 🎓 *Power BI Data Analyst Associate (PL-300)* – Microsoft *(In Progress)*  
+  
 
 ---
 
