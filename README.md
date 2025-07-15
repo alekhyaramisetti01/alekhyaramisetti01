@@ -15,7 +15,7 @@ Currently seeking **full-time Data Analyst opportunities** starting **December 2
 
 ## 🔧 Technical Skills
 
-- **Data Analysis & Visualization:** Power BI, Excel, Matplotlib, Tableau, IBM Cognos  
+- **Data Analysis & Visualization:** Power BI, Excel, Matplotlib, Seabotn, IBM Cognos,
 - **Programming & Scripting:** SQL, Python (Pandas, NumPy)  
 - **Statistical Thinking:** Exploratory Data Analysis, Hypothesis Testing  
 - **Databases:** PostgreSQL, MySQL, SQLite  
