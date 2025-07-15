@@ -48,7 +48,7 @@ Currently seeking **full-time Data Analyst opportunities** starting **December 2
 
 
 ### 🏦 Bank Marketing Campaign Analytics  
-**Tools:** PostgreSQL, Python, Pandas, NumPy, SQLAlchemy, psycopg2, Tableau  
+**Tools:** PostgreSQL, Python, Pandas, NumPy, SQLAlchemy, psycopg2, Power BI 
 ✔️ Analyzed 41K+ records to evaluate campaign success.  
 ✔️ Built KPIs and customer segmentation dashboards for marketing insights.
 
